@@ -1,2 +1,3 @@
 Name: Nakshatra P
 Age: 20
+College: Mec
