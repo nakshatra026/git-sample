@@ -1,0 +1,3 @@
+Name: Nakshatra
+College: Mec
+Dept: Ec
